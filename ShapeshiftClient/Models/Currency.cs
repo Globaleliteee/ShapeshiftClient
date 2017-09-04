@@ -1,0 +1,75 @@
+﻿namespace O3one.Shapeshift.Models
+{
+	public static class Currency
+	{
+		public const string Aragon = "ANT";   // Aragon 
+		public const string BasicAttentionToken = "BAT";    // Basic Attention Token 
+		public const string BitcoinCash = "BCH";    // Bitcoin Cash 
+		public const string Bitcoin = "BTC";    // Bitcoin 
+		public const string Bitcrystals = "BCY";    // Bitcrystals 
+		public const string Blackcoin = "BLK";    // Blackcoin 
+		public const string Bancor = "BNT";    // Bancor 
+		public const string BitShares = "BTS";    // BitShares 
+		public const string Clams = "CLAM"; // Clams 
+		public const string Civic = "CVC";   // Civic 
+		public const string Dash = "DASH"; // Dash 
+		public const string Dogecoin = "DOGE"; // Dogecoin 
+		public const string GameCredits = "GAME"; // GameCredits 
+		public const string Maidsafe = "MAID"; // Maidsafe 
+		public const string Mastercoin = "MSCN"; // Mastercoin 
+		public const string Monacoin = "MONA"; // Monacoin 
+		public const string Decred = "DCR";   // Decred 
+		public const string Digibyte = "DGB";   // Digibyte 
+		public const string DigixDao = "DGD";   // DigixDao 
+		public const string Edgeless = "EDG";   // Edgeless 
+		public const string Emercoin = "EMC";   // Emercoin 
+		public const string EOS = "EOS";   // EOS 
+		public const string Ether = "ETH";   // Ether 
+		public const string EtherClassic = "ETC";   // Ether Classic 
+		public const string Factoids = "FCT";   // Factoids 
+		public const string FunFairToken = "FUN";   // FunFair Token 
+		public const string Gnosis = "GNO";   // Gnosis 
+		public const string Golem = "GNT";   // Golem 
+		public const string Matchpool = "GUP";   // Matchpool 
+		public const string Iconomi = "ICN";   // Iconomi 
+		public const string Komodo = "KMD";   // Komodo 
+		public const string LBRYCredits = "LBC";   // LBRY Credits 
+		public const string Lisk = "LSK";   // Lisk 
+		public const string Litecoin = "LTC";   // Litecoin 
+		public const string Melon = "MLN";   // Melon 
+		public const string MetalPay = "MTL";   // Metal Pay 
+		public const string Namecoin = "NMC";   // Namecoin 
+		public const string Numeraire = "NMR";   // Numeraire 
+		public const string Novacoin = "NVC";   // Novacoin 
+		public const string TenXToken = "PAY";   // TenX Token 
+		public const string Nxt = "NXT";   // Nxt 
+		public const string OmiseGO = "OMG";   // OmiseGO 
+		public const string Potcoin = "POT";   // Potcoin 
+		public const string Peercoin = "PPC";   // Peercoin 
+		public const string Reddcoin = "RDD";   // Reddcoin 
+		public const string Augur = "REP";   // Augur 
+		public const string iExec = "RLC";   // iExec 
+		public const string Status = "SNT";   // Status 
+		public const string SwarmCity = "SWT";   // SwarmCity 
+		public const string TokenCard = "TKN";   // TokenCard 
+		public const string Vericoin = "VRC";   // Vericoin 
+		public const string Vertcoin = "VTC";   // Vertcoin 
+		public const string Voxels = "VOX";   // Voxels 
+		public const string Counterparty = "XCP";   // Counterparty 
+		public const string Monero = "XMR";   // Monero 
+		public const string Ripple = "XRP";   // Ripple 
+		public const string Zcash = "ZEC";   // Zcash 
+		public const string _0x = "ZRX";   //	0x 
+		public const string Siacoin = "SC";    // Siacoin 
+		public const string Nubits = "USNBT"; // Nubits 
+		public const string Qtum = "QTUM";  // Qtum 
+		public const string StorjcoinX = "SJCX";  // StorjcoinX 
+		public const string SingularDTV = "SNGLS"; // SingularDTV 
+		public const string Startcoin = "START"; // Startcoin 
+		public const string Steem = "STEEM"; // Steem 
+		public const string TetherUSD = "USDT";  // TetherUSD 
+		public const string WeTrust = "TRST";  // WeTrust 
+		public const string Waves = "WAVES"; // Waves 
+		public const string Wings = "WINGS"; // Wings
+	}
+}
